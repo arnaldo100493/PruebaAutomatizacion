@@ -1,6 +1,7 @@
 *** Settings ***
 Library           SeleniumLibrary
 Library           Selenium2Library
+Library           ExcelLibrary
 
 *** Test Cases ***
 Hola

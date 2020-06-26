@@ -13,9 +13,6 @@ By default the server uses port 7272, but a custom port can be given as
 an argument from the command line.
 """
 
-#!BEGINING ODBC SQL SERVER
-
-#!ENDING ODBC SQL SERVER
 from __future__ import print_function
 
 from os import chdir
